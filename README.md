@@ -14,4 +14,4 @@ To understand the engagement levels, we analysed the views and comments statisti
 3\. Daily analysis of trending videos:\
 In addition to the yearly analysis, we conducted a comprehensive daily analysis of trending videos for Portugal, Brazil, Spain, Kenya, and Nepal. By comparing categories, views, and comments, we gained valuable insights into the preferences and trends specific to these countries. This enabled us to understand the dynamics of video consumption and audience engagement across diverse regions.
 
-Overall, this project has provided valuable insights into the world of trending videos on YouTube. The findings from our data analysis shed light on the most popular categories, viewership trends, and audience engagement, thereby contributing to a deeper understanding of YouTube's dynamic ecosystem.
+Overall, this project has provided valuable insights into the world of trending videos on YouTube. The findings from our data analysis shed light on the most popular categories, viewership trends, and audience engagement, thereby contributing to a deeper understanding of YouTube's dynamic ecosystem. 
